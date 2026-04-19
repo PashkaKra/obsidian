@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "8298ed0dfdfaa200",
+        "id": "ddd427fc39e12ed6",
         "type": "tabs",
         "children": [
           {
-            "id": "4a7a1aea4b49d5fc",
+            "id": "8c4bda3accfbd55f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nvim/Сессии в nvim.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сессии в nvim"
+            }
+          },
+          {
+            "id": "41fa13c2a1b28dca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,59 +36,45 @@
             }
           },
           {
-            "id": "5b2a7abe3d248e2e",
+            "id": "683f825c7970a883",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nginx.md",
+                "file": "Nvim/Переход по номеру строки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nginx"
+              "title": "Переход по номеру строки"
             }
           },
           {
-            "id": "eb4c536d03464441",
+            "id": "e68714eda4c24a90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ssh.md",
-                "mode": "source",
+                "file": "Nvim/Полезные плагины.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ssh"
+              "title": "Полезные плагины"
             }
           },
           {
-            "id": "d3190366be9ad05c",
+            "id": "ed8d1b43d3f33a7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Users.md",
+                "file": "Nvim/Полезные плагины.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Users"
-            }
-          },
-          {
-            "id": "d34bc6901e31e2c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLE реклама.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BLE реклама"
+              "title": "Полезные плагины"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#bluethooth",
+                "query": "tag:#nvim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -223,16 +223,51 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "explorer-hider:Disable hiding": false
     }
   },
-  "active": "f91c52704e4a797d",
+  "active": "ed8d1b43d3f33a7b",
   "lastOpenFiles": [
-    "BLE реклама.md",
-    "Users.md",
-    "Jenkins.md",
+    "Nvim/Команды для перемещения курсора nvim.md",
+    "Nvim/Полезные плагины.md",
+    "Attachments/Images/nvim/Multicursor5.gif",
+    "Attachments/Images/nvim/Unconfirmed 478127.crdownload",
+    "Attachments/Images/nvim/Multicursor4.gif",
+    "Attachments/Images/nvim/Unconfirmed 421028.crdownload",
+    "Attachments/Images/nvim/Multicursor3.gif",
+    "Attachments/Images/nvim/Unconfirmed 274702.crdownload",
+    "Attachments/Images/nvim/Multicursor2.gif",
+    "Attachments/Images/nvim/Unconfirmed 882169.crdownload",
+    "Attachments/Images/nvim/Multicursor1.gif",
+    "Attachments/Images/nvim/Unconfirmed 146339.crdownload",
+    "Attachments/Images/nvim/tagbar.png",
+    "Attachments/Images/nvim/Unconfirmed 572913.crdownload",
     "Nginx.md",
+    "Jenkins.md",
     "ssh.md",
-    "Tmux.md"
+    "Nvim/Переход по номеру строки.md",
+    "Tmux.md",
+    "Obsidian/Obsidian.md",
+    "Obsidian/Скрытие картинок из файлового дерева.md",
+    "Nvim/Сессии в nvim.md",
+    "Obsidian",
+    "Nvim/Передвижение строк в nvim.md",
+    "Nvim/Окна в Nvim.md",
+    "Nvim/Макросы nvim.md",
+    "Nvim/Быстрая прокрутка страницы в nvim.md",
+    "Nvim/Буфферы в nvim.md",
+    "shift_rows.gif",
+    "orig.gif",
+    "buffers.png",
+    "Attachments/Images/nvim/shift_rows.gif",
+    "Attachments/Images/nvim",
+    "Attachments/Images",
+    "Attachments",
+    "Linux.md",
+    "shift_rows.gif.md",
+    "Nvim/Nvim.md",
+    "Users.md",
+    "BLE реклама.md"
   ]
 }

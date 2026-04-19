@@ -1,0 +1,15 @@
+{
+  "useSnippets": false,
+  "compatSpf": false,
+  "showAll": false,
+  "snippets": [
+    {
+      "path": "Attachments",
+      "type": "folder",
+      "hiddenInNav": true,
+      "hiddenInBookmarks": false
+    }
+  ],
+  "alwaysHideInBookmarks": false,
+  "buttonInContextBookmark": false
+}

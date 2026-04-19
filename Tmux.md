@@ -96,4 +96,4 @@ $ man tmux
 ```   
   
 → [Официальный сайт](https://tmux.github.io/)
-[[linux]]
+[[Linux]]
